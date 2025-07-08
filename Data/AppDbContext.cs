@@ -1,4 +1,4 @@
-﻿using MercadinhoAPI.Models;
+﻿using MercadinhoAPI.Data.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace MercadinhoAPI.Data
